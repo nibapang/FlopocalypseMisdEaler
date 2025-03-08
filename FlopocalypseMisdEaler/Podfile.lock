@@ -1,0 +1,22 @@
+PODS:
+  - Adjust (4.38.4):
+    - Adjust/Core (= 4.38.4)
+  - Adjust/Core (4.38.4)
+  - ReachabilitySwift (5.2.4)
+
+DEPENDENCIES:
+  - Adjust (= 4.38.4)
+  - ReachabilitySwift
+
+SPEC REPOS:
+  trunk:
+    - Adjust
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Adjust: afda46df69f035fd216310fb85f399c40c61830a
+  ReachabilitySwift: 32793e867593cfc1177f5d16491e3a197d2fccda
+
+PODFILE CHECKSUM: e69cb718b94422f8e85dcfb48a31c09309e35205
+
+COCOAPODS: 1.16.2
